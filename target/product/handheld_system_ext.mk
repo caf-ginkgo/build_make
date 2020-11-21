@@ -26,6 +26,7 @@ PRODUCT_PACKAGES += \
     Provision \
     QuickAccessWallet \
     Settings \
+    SimpleDeviceConfig \
     StorageManager \
     SystemUI \
     WallpaperCropper \
